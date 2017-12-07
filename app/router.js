@@ -8,7 +8,9 @@ const Router = EmberRouter.extend({
 
 Router.map(function() {
   this.route('app-route');
-  this.route('engine-route');
+  this.route('engine-route', function() {
+    this.mount('super-engine');
+  });
 });
 
 export default Router;
