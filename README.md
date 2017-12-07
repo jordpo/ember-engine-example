@@ -1,7 +1,8 @@
 # engine-experiment
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An example of lazy loading an engine that uses shared functionality with the consuming app via an addon.
+
+![Gif of example](https://jmorano-dropshare.s3.amazonaws.com/Screen-Recording-2017-12-07-14-34-07.gif)
 
 ## Prerequisites
 
