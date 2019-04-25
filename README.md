@@ -2,6 +2,7 @@
 
 An example of lazy loading an engine that uses shared functionality with the consuming app via an addon.
 
+
 ![Gif of example](https://jmorano-dropshare.s3.amazonaws.com/Screen-Recording-2017-12-07-14-34-07.gif)
 
 ## Prerequisites
